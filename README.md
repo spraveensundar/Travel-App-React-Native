@@ -1,8 +1,13 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_22_44](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/20b1eb89-8cc8-47bd-856d-ac39291d4fb6)
+
+
+![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_23_49](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/db2053e3-c906-4abb-bd5d-e43047671277)
+
+
+![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_23_08](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/52ec08a1-1307-4340-8f1a-3a2d41e82c9f)
 
 ## Step 1: Start the Metro Server
 
