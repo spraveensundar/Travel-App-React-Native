@@ -3,7 +3,8 @@
 ![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_22_44](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/20b1eb89-8cc8-47bd-856d-ac39291d4fb6)   ![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_23_49](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/db2053e3-c906-4abb-bd5d-e43047671277)
 
 
-![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_23_08](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/52ec08a1-1307-4340-8f1a-3a2d41e82c9f)
+
+ ![Android Emulator - Pixel_6_Pro_5554 29-09-2023 19_33_32](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/f1e98647-be6e-4e80-8d17-365b18fce555)      ![Android Emulator - Pixel_6_Pro_5554 29-09-2023 18_23_08](https://github.com/spraveensundar/Travel-App-React-Native/assets/131776093/52ec08a1-1307-4340-8f1a-3a2d41e82c9f)
 
 # Getting Started
 
