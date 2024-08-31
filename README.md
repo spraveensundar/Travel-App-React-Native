@@ -1,6 +1,6 @@
 # Travel-App
 
-p![Artboard 1](https://github.com/user-attachments/assets/bb04a764-6a45-4b74-abbb-01e246c05617)
+![Artboard 1](https://github.com/user-attachments/assets/bb04a764-6a45-4b74-abbb-01e246c05617)
 
 
 # Getting Started
